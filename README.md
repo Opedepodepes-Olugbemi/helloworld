@@ -1,2 +1,15 @@
-# helloworld
-A repo where "helloworld" is  written in different languages
+# Hello world ```Open source```
+
+This is an Hello world repository written in different programming languages
+
+
+`c`, `php`, `javascript`, `java`, `react`, `c++`, `kotlin`, `bash`, `batch`, `dragon`, `python`, `dart`, `ruby`.
+
+# How to Contribute
+
+Clone repo, create new branch, edit changes, commit and push,
+star repo
+
+any other language not listed should be identified in the readme section.
+
+- This repository should eventually contain the famous "Hello World" program in all the programming languages
