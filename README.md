@@ -3,7 +3,7 @@
 This is an Hello world repository written in different programming languages
 
 
-`c`, `php`, `javascript`, `java`, `swift`, `react`, `c++`, `kotlin`, `bash`, `batch`, `dragon`, `python`, `dart`, `ruby`.
+`c`, `php`, `javascript`, `java`, `swift`, `react`, `c++`, `kotlin`, `bash`, `batch`, `vbs`, `dragon`, `python`, `dart`, `ruby`.
 
 # How to Contribute
 
